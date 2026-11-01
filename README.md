@@ -1,18 +1,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,30:1A101B,70:FF80B5,100:1A101B&height=230&section=header&text=Dulce%20Jahel&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS%20%E2%9C%A8&descSize=15&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&duration=2500&pause=900&color=FF80B5&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%E2%99%A1;Systems+Engineering+Student+%F0%9F%8E%80;Turning+coffee+into+code+%E2%98%95;Learning%2C+creating+and+growing+every+day+%E2%9C%A8" />
+<!-- GIRLY PROGRAMMING BANNER -->
+<img src="./banner-girly.png" width="100%" alt="Dulce Jahel coding aesthetic banner"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&duration=2500&pause=900&color=FF80B5&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+digital+world+%E2%99%A1;Systems+Engineering+Student+%F0%9F%8E%80;Dreaming+in+pink%2C+thinking+in+code;Learning%2C+creating+and+growing+every+day+%E2%9C%A8"/>
 
-**୨୧ ─────────────── ୨୧**
+<br/>
+
+**୨୧ ─────── ⋆｡˚ ♡ ˚｡⋆ ─────── ୨୧**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DULCEJAHEL-FF80B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DULCEJAHEL)
+
 ![Profile views](https://komarev.com/ghpvc/?username=DULCEJAHEL&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS)
+
+**♡ Pretty code, big dreams & endless possibilities ♡**
 
 </div>
 
@@ -20,7 +24,7 @@
 
 ## 🎀 ABOUT ME
 
-<img align="right" width="190" src="https://media.giphy.com/media/13HgwGsLF7WCI0/giphy.gif"/>
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Hello! I'm **Dulce Jahel** ♡
 
@@ -47,15 +51,15 @@ I enjoy learning how things work, solving problems and transforming ideas into d
 
 ### ♡ Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
 
 ### ♡ Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 
 ### ♡ Database & Development Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -92,11 +96,11 @@ I enjoy learning how things work, solving problems and transforming ideas into d
 <div align="center">
 
 <a href="https://github.com/DULCEJAHEL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DULCEJAHEL&repo=REPOSITORY_1&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DULCEJAHEL&repo=REPOSITORY_1&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5"/>
 </a>
 
 <a href="https://github.com/DULCEJAHEL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DULCEJAHEL&repo=REPOSITORY_2&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DULCEJAHEL&repo=REPOSITORY_2&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5"/>
 </a>
 
 </div>
@@ -109,7 +113,7 @@ I enjoy learning how things work, solving problems and transforming ideas into d
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=DULCEJAHEL&show_icons=true&count_private=true&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5&rank_icon=github"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=DULCEJAHEL&show_icons=true&theme=radical&bg_color=15101B&title_color=FF80B5&icon_color=FF69B4&text_color=FFFFFF&border_color=FF80B5&rank_icon=github"/>
 
 <br/>
 
@@ -127,7 +131,7 @@ I enjoy learning how things work, solving problems and transforming ideas into d
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
 ### "Dream big. Think logically. Code beautifully."
 
@@ -141,8 +145,10 @@ I enjoy learning how things work, solving problems and transforming ideas into d
 
 <div align="center">
 
-**THANK YOU FOR VISITING MY PROFILE!**
+**THANK YOU FOR VISITING MY PROFILE! ♡**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A101B,50:FF69B4,100:FFB6D5&height=120&section=footer" width="100%"/>
+୨୧ ⋆｡˚ ✨ ⋆｡˚ ୨୧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:1A101B,100:FFB6D5&height=120&section=footer" width="100%"/>
 
 </div>
