@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- GIRLY PROGRAMMING BANNER -->
-<img src="./banner-girly.png" width="100%" alt="Dulce Jahel coding aesthetic banner"/>
+<img src="./anner-girly.png" width="100%" alt="Dulce Jahel coding aesthetic banner"/>
 
 <br/>
 
